@@ -3,7 +3,7 @@ package main_test
 import (
 	"testing"
 
-	. "github.com/thejaredhooper/version"
+	. "github.com/jredhooper/version"
 )
 
 func reset() {

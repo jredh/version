@@ -8,7 +8,7 @@
 ## Instructions
 
 1. Have a `version` file in your working directory
-2. Install the package: `$ go install github.com/thejaredhooper/version`
+2. Install the package: `$ go install github.com/jredhooper/version`
 3. Execute the command against your repo or add it to your githook
 4. Usage:
 ```

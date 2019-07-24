@@ -1,4 +1,4 @@
-module github.com/thejaredhooper/version
+module github.com/jredhooper/version
 
 require (
 	github.com/emirpasic/gods v1.12.0 // indirect
